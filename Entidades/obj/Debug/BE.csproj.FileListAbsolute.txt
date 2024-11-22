@@ -1,0 +1,30 @@
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.dll
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.dll
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.dll
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.dll
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Entidades\obj\Debug\Entidades.pdb

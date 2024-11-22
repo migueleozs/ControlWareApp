@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Bitacora>
+  <Evento FechaHora="2023-12-22 16:56:06" Usuario="Super"> Inició Sesión</Evento>
+  <Evento FechaHora="2023-12-22 16:56:49" Usuario="Super"> Inició Sesión</Evento>
+  <Evento FechaHora="2023-12-22 16:57:04" Usuario="Super">Realizo un backup con nombre Bakap</Evento>
+  <Evento FechaHora="2024-03-04 15:07:52" Usuario="Miguel"> Inició Sesión</Evento>
+  <Evento FechaHora="2024-03-04 15:08:09" Usuario="Miguel"> Inició Sesión</Evento>
+  <Evento FechaHora="2024-03-06 20:52:16" Usuario="Admin"> Inició Sesión</Evento>
+  <Evento FechaHora="2024-03-06 20:53:09" Usuario="Admin"> Inició Sesión</Evento>
+  <Evento FechaHora="2024-03-06 22:20:59" Usuario="Admin"> Inició Sesión</Evento>
+  <Evento FechaHora="2024-03-06 22:42:58" Usuario="Admin"> Inició Sesión</Evento>
+  <Evento FechaHora="2024-03-07 17:05:01" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:05:05" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:05:11" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:05:13" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:05:21" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:09:33" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:09:39" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:09:41" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:09:58" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:10:05" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:10:07" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:10:11" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:10:27" Usuario="">Creó una nueva venta exitosamente</Evento>
+  <Evento FechaHora="2024-03-07 17:11:31" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:11:46" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:11:51" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:11:54" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:11:58" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:12:04" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:12:07" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:16:26" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:16:35" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:19:49" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:19:54" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:23:52" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:25:04" Usuario="">Buscó un cliente para la venta.</Evento>
+  <Evento FechaHora="2024-03-07 17:25:13" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:25:28" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:25:35" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:25:42" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:25:45" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:25:54" Usuario="">Creó una nueva venta exitosamente</Evento>
+  <Evento FechaHora="2024-03-07 17:26:17" Usuario="">Buscó un producto.</Evento>
+  <Evento FechaHora="2024-03-07 17:26:18" Usuario="">Asignó un producto a una venta</Evento>
+  <Evento FechaHora="2024-03-07 17:26:40" Usuario="">Creó una nueva venta exitosamente</Evento>
+  <Evento FechaHora="2024-03-07 17:49:55" Usuario="Admin"> Inició Sesión</Evento>
+  <Evento FechaHora="2024-03-07 17:50:59" Usuario="Admin"> Inició Sesión</Evento>
+  <Evento FechaHora="2024-03-07 20:21:11" Usuario=""> creó un nuevo producto exitosamente</Evento>
+  <Evento FechaHora="2024-03-07 20:30:02" Usuario=""> registró un nuevo producto</Evento>
+  <Evento FechaHora="2024-03-07 20:31:30" Usuario=""> creó un usuario nuevo</Evento>
+  <Evento FechaHora="2024-03-07 20:37:53" Usuario=""> creó un usuario nuevo</Evento>
+  <Evento FechaHora="2024-03-07 20:41:03" Usuario=""> creó un usuario nuevo</Evento>
+  <Evento FechaHora="2024-03-07 20:42:38" Usuario=""> creó un usuario nuevo</Evento>
+  <Evento FechaHora="2024-03-07 20:43:14" Usuario=""> creó un usuario nuevo</Evento>
+  <Evento FechaHora="2024-03-07 20:43:45" Usuario=""> creó un usuario nuevo</Evento>
+  <Evento FechaHora="2024-03-07 20:44:32" Usuario="">Realizo un backup con nombre Backup22</Evento>
+  <Evento FechaHora="2024-03-07 20:45:03" Usuario="">Realizo un restore con nombre Ba</Evento>
+  <Evento FechaHora="2024-03-07 20:45:10" Usuario="">Realizo un restore con nombre BackUp22</Evento>
+  <Evento FechaHora="2024-03-07 20:45:14" Usuario="">Realizo un restore con nombre Backup22</Evento>
+  <Evento FechaHora="2024-03-07 20:45:16" Usuario="">Realizo un restore con nombre Backup22</Evento>
+  <Evento FechaHora="2024-03-07 21:09:01" Usuario="">Realizo un restore con nombre SuperBack</Evento>
+  <Evento FechaHora="2024-03-07 21:09:03" Usuario="">Realizo un restore con nombre SuperBack</Evento>
+  <Evento FechaHora="2024-03-07 21:09:07" Usuario="">Realizo un restore con nombre SuperBack</Evento>
+  <Evento FechaHora="2024-03-07 21:09:12" Usuario="">Realizo un backup con nombre SuperBack</Evento>
+  <Evento FechaHora="2024-03-07 21:10:38" Usuario="">Realizo un restore con nombre SuperBack</Evento>
+  <Evento FechaHora="2024-03-07 21:10:43" Usuario="">Realizo un restore con nombre Superback</Evento>
+  <Evento FechaHora="2024-03-07 21:10:47" Usuario="">Realizo un backup con nombre Superback</Evento>
+  <Evento FechaHora="2024-03-07 21:10:51" Usuario="">Realizo un restore con nombre Superback</Evento>
+  <Evento FechaHora="2024-03-07 21:12:52" Usuario="">Realizo un backup con nombre Bakap</Evento>
+  <Evento FechaHora="2024-03-07 21:23:43" Usuario="">Realizo un restore con nombre Bakap</Evento>
+  <Evento FechaHora="2024-03-07 21:25:03" Usuario="">Realizo un backup con nombre Backap</Evento>
+  <Evento FechaHora="2024-03-07 21:26:44" Usuario="">Realizo un backup con nombre B</Evento>
+  <Evento FechaHora="2024-03-07 21:32:50" Usuario="">Realizo un backup con nombre Bakap</Evento>
+  <Evento FechaHora="2024-03-07 21:33:03" Usuario="">Realizo un restore con nombre Bakap123142</Evento>
+  <Evento FechaHora="2024-03-07 21:34:23" Usuario="">Realizo un backup con nombre B</Evento>
+  <Evento FechaHora="2024-03-07 21:34:28" Usuario="">Realizo un restore con nombre B</Evento>
+  <Evento FechaHora="2024-03-07 21:34:32" Usuario="">Realizo un restore con nombre B12323</Evento>
+  <Evento FechaHora="2024-03-07 22:14:04" Usuario="Admin"> Inició Sesión</Evento>
+  <Evento FechaHora="2024-03-07 22:32:41" Usuario=""> creó un usuario nuevo</Evento>
+  <Evento FechaHora="2024-03-07 22:33:46" Usuario=""> creó un usuario nuevo</Evento>
+  <Evento FechaHora="2024-03-07 22:34:16" Usuario="Miguel"> Inició Sesión</Evento>
+</Bitacora>

@@ -1,0 +1,143 @@
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.formVentas.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.formRegistrarCliente.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.formProducto.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormDashboard.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormVentasTotales.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormStock.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormClientesRegistrados.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormNuevoUsuario.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormEmpleados.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormClientesRegistrados.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormDashboard.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormEmpleados.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormNuevoUsuario.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormProducto.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormStock.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormVentas.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormVentasTotales.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormRegistrarCliente.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormBitacora.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormBitacora.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormClientesRegistrados.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormDashboard.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormEmpleados.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormNuevoUsuario.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormProducto.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormStock.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormVentas.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormVentasTotales.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormRegistrarCliente.resources
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.dll
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.dll
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.pdb
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.pdb
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Tecnico\Downloads\ControlWareMiguelZamudio - Respaldo nuevo\ControlWareMiguelZamudio - Respaldo nuevo\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormBitacora.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormClientesRegistrados.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormDashboard.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormEmpleados.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormNuevoUsuario.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormProducto.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormStock.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormVentas.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormVentasTotales.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormRegistrarCliente.resources
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.dll
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.dll
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.dll
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\AccesoData.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Application.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormBitacora.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormClientesRegistrados.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormEmpleados.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormNuevoUsuario.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormProducto.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormStock.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormVentas.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormVentasTotales.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.FormRegistrarCliente.resources
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\Presentacion\obj\Debug\Presentacion.Form2.resources

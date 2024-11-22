@@ -1,0 +1,36 @@
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\AccesoData.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\AccesoData.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\AccesoData.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\AccesoData.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\AccesoData.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\AccesoData.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\AccesoData.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\AccesoData.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\AccesoData.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\AccesoData.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\Entidades.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\Entidades.pdb
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\AccesoData.dll
+C:\Users\mikel\OneDrive\Escritorio\UAI\Trabajo Final\NUEVO\ControlWareMiguelZamudio con manejodeExcepciones\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\AccesoData.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\AccesoData.dll
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\AccesoData.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\Entidades.dll
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\bin\Debug\Entidades.pdb
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\DAL.csproj.Up2Date
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\AccesoData.dll
+C:\Users\54116\Documents\MIGUEL ZAMUDIO COSAS\ControlWareMiguelZamudio\TrabajoIntegradorMiguelZamudio\AccesoData\obj\Debug\AccesoData.pdb
